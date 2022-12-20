@@ -1,267 +1,69 @@
-,Country Name,Country Code,Indicator Name,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
-0,Aruba,ABW,Rail lines (total route-km),,,,,,,,,,,
-1,Africa Eastern and Southern,AFE,Rail lines (total route-km),,,,,,,,,,,
-2,Afghanistan,AFG,Rail lines (total route-km),,,,,,,,,,,
-3,Africa Western and Central,AFW,Rail lines (total route-km),,,,,,,,,,,
-4,Angola,AGO,Rail lines (total route-km),,,,,,,,,,,
-5,Albania,ALB,Rail lines (total route-km),,,,,,,,,,,
-6,Andorra,AND,Rail lines (total route-km),,,,,,,,,,,
-7,Arab World,ARB,Rail lines (total route-km),,,,,,,,,,,
-8,United Arab Emirates,ARE,Rail lines (total route-km),,,,,,,,,261.0,,
-9,Argentina,ARG,Rail lines (total route-km),,,18097.0,18097.0,,17609.0,17609.0,17866.0,,,
-10,Armenia,ARM,Rail lines (total route-km),,,,703.2,703.2,679.363,685.66,,,,
-11,American Samoa,ASM,Rail lines (total route-km),,,,,,,,,,,
-12,Antigua and Barbuda,ATG,Rail lines (total route-km),,,,,,,,,,,
-13,Australia,AUS,Rail lines (total route-km),8829.314,,,,,,,,,,
-14,Austria,AUT,Rail lines (total route-km),4917.0,4985.0,4950.0,4956.0,4937.0,4917.0,4953.0,4864.0,4877.0,,
-15,Azerbaijan,AZE,Rail lines (total route-km),2079.3,2068.1,2068.1,2066.4,2067.8,2074.0,2132.0,2133.07,2139.87,,
-16,Burundi,BDI,Rail lines (total route-km),,,,,,,,,,,
-17,Belgium,BEL,Rail lines (total route-km),,3592.0,,3631.0,3607.0,3602.0,3605.0,3607.0,,,
-18,Benin,BEN,Rail lines (total route-km),,,,,,,,,,,
-19,Burkina Faso,BFA,Rail lines (total route-km),,,518.0,518.0,518.0,518.0,518.0,518.0,518.0,,
-20,Bangladesh,BGD,Rail lines (total route-km),2791.0,2877.0,2877.0,2791.0,2877.0,2877.0,,,,,
-21,Bulgaria,BGR,Rail lines (total route-km),4072.0,4070.0,4032.0,4023.0,4019.0,4029.0,4030.0,4030.0,4030.0,,
-22,Bahrain,BHR,Rail lines (total route-km),,,,,,,,,,,
-23,"Bahamas, The",BHS,Rail lines (total route-km),,,,,,,,,,,
-24,Bosnia and Herzegovina,BIH,Rail lines (total route-km),1027.054,1027.054,1027.054,1027.054,1027.054,1018.054,1018.054,1018.054,,,
-25,Belarus,BLR,Rail lines (total route-km),5482.0,5462.0,5469.0,5470.0,5470.0,5459.0,5459.0,5459.0,5459.0,,
-26,Belize,BLZ,Rail lines (total route-km),,,,,,,,,,,
-27,Bermuda,BMU,Rail lines (total route-km),,,,,,,,,,,
-28,Bolivia,BOL,Rail lines (total route-km),,,,,,,,,,,
-29,Brazil,BRA,Rail lines (total route-km),,,,,,,,,,,
-30,Barbados,BRB,Rail lines (total route-km),,,,,,,,,,,
-31,Brunei Darussalam,BRN,Rail lines (total route-km),,,,,,,,,,,
-32,Bhutan,BTN,Rail lines (total route-km),,,,,,,,,,,
-33,Botswana,BWA,Rail lines (total route-km),,,,,886.0,886.0,,,,,
-34,Central African Republic,CAF,Rail lines (total route-km),,,,,,,,,,,
-35,Canada,CAN,Rail lines (total route-km),,,,58651.0,57264.0,48498.4,48150.4,47687.4,,,
-36,Central Europe and the Baltics,CEB,Rail lines (total route-km),,,,,,,,,,,
-37,Switzerland,CHE,Rail lines (total route-km),3551.185,3557.787,3611.016,4018.719,3976.315,4034.485,4050.523,4046.846,3236.24529,,
-38,Channel Islands,CHI,Rail lines (total route-km),,,,,,,,,,,
-39,Chile,CHL,Rail lines (total route-km),,,,,,,,,,,
-40,China,CHN,Rail lines (total route-km),66041.0,66298.0,66585.0,66989.0,67212.0,83717.0,67278.0,67515.0,68141.0,,
-41,Cote d'Ivoire,CIV,Rail lines (total route-km),639.0,639.0,639.0,639.0,639.0,639.0,639.0,639.0,,,
-42,Cameroon,CMR,Rail lines (total route-km),976.5,,,,,1004.0,1004.0,1004.0,,,
-43,"Congo, Dem. Rep.",COD,Rail lines (total route-km),3641.0,3641.0,3641.0,3641.0,3641.0,3641.0,3641.0,3641.0,3641.0,,
-44,"Congo, Rep.",COG,Rail lines (total route-km),,893.2,,,,,,,,,
-45,Colombia,COL,Rail lines (total route-km),,,,,,,,,,,
-46,Comoros,COM,Rail lines (total route-km),,,,,,,,,,,
-47,Cabo Verde,CPV,Rail lines (total route-km),,,,,,,,,,,
-48,Costa Rica,CRI,Rail lines (total route-km),,,,,,,,,,,
-49,Caribbean small states,CSS,Rail lines (total route-km),,,,,,,,,,,
-50,Cuba,CUB,Rail lines (total route-km),,,,,,,,,,,
-51,Curacao,CUW,Rail lines (total route-km),,,,,,,,,,,
-52,Cayman Islands,CYM,Rail lines (total route-km),,,,,,,,,,,
-53,Cyprus,CYP,Rail lines (total route-km),,,,,,,,,,,
-54,Czech Republic,CZE,Rail lines (total route-km),9470.16,9468.265,9459.031,9457.612,9466.893,9462.687,9408.0,9406.0,9396.0,,
-55,Germany,DEU,Rail lines (total route-km),33575.872,33506.0,33449.0,33426.0,33332.0,33380.0,33488.0,33440.0,33422.0,,
-56,Djibouti,DJI,Rail lines (total route-km),,,,,,,,,,,
-57,Dominica,DMA,Rail lines (total route-km),,,,,,,,,,,
-58,Denmark,DNK,Rail lines (total route-km),,,,,,,,,,,
-59,Dominican Republic,DOM,Rail lines (total route-km),,,,,,,,,,,
-60,Algeria,DZA,Rail lines (total route-km),4226.0,4175.0,,3799.94,3799.94,3843.17,4016.25,4016.25,4020.25,,
-61,East Asia & Pacific (excluding high income),EAP,Rail lines (total route-km),,,,,,,,,,,
-62,Early-demographic dividend,EAR,Rail lines (total route-km),,,,,,,,,,,
-63,East Asia & Pacific,EAS,Rail lines (total route-km),,,,,,,,,,,
-64,Europe & Central Asia (excluding high income),ECA,Rail lines (total route-km),,,,,,,,,,,
-65,Europe & Central Asia,ECS,Rail lines (total route-km),,,,,,,,,,,
-66,Ecuador,ECU,Rail lines (total route-km),,,,,,,,,,,
-67,"Egypt, Arab Rep.",EGY,Rail lines (total route-km),,,,,5153.0,5153.0,,,,,
-68,Euro area,EMU,Rail lines (total route-km),,,,,,,,,,,
-69,Eritrea,ERI,Rail lines (total route-km),,,,,,,,,,,
-70,Spain,ESP,Rail lines (total route-km),15680.563,15438.0,,15506.0,15711.0,15650.0,15559.0,15618.0,15718.0,,
-71,Estonia,EST,Rail lines (total route-km),792.0,792.0,,1018.0,1034.0,1034.0,1033.0,,,,
-72,Ethiopia,ETH,Rail lines (total route-km),,,,,,754.0,754.0,754.0,,,
-73,European Union,EUU,Rail lines (total route-km),,,,,,,,,,,
-74,Fragile and conflict affected situations,FCS,Rail lines (total route-km),,,,,,,,,,,
-75,Finland,FIN,Rail lines (total route-km),5944.0,5944.0,5944.0,5944.0,5923.0,5926.0,5926.0,5926.0,5923.0,,
-76,Fiji,FJI,Rail lines (total route-km),,,,,,,,,,,
-77,France,FRA,Rail lines (total route-km),30071.0,29406.0,29979.0,,28866.0,29236.65,29248.142,28241.0,,,
-78,Faroe Islands,FRO,Rail lines (total route-km),,,,,,,,,,,
-79,"Micronesia, Fed. Sts.",FSM,Rail lines (total route-km),,,,,,,,,,,
-80,Gabon,GAB,Rail lines (total route-km),810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,810.0,,
-81,United Kingdom,GBR,Rail lines (total route-km),16209.59,15846.5,15861.0,16532.1,16245.1,16257.0,16294.0,16295.0,,,
-82,Georgia,GEO,Rail lines (total route-km),1262.2,1577.6,1453.4,1453.4,1491.0,1415.0,1285.0,1285.0,,,
-83,Ghana,GHA,Rail lines (total route-km),,,,,,,,,,,
-84,Gibraltar,GIB,Rail lines (total route-km),,,,,,,,,,,
-85,Guinea,GIN,Rail lines (total route-km),,,,,,,,,,,
-86,"Gambia, The",GMB,Rail lines (total route-km),,,,,,,,,,,
-87,Guinea-Bissau,GNB,Rail lines (total route-km),,,,,,,,,,,
-88,Equatorial Guinea,GNQ,Rail lines (total route-km),,,,,,,,,,,
-89,Greece,GRC,Rail lines (total route-km),2554.0,2208.0,2265.0,2238.0,2240.0,2240.0,2240.0,2293.0,2279.0,,
-90,Grenada,GRD,Rail lines (total route-km),,,,,,,,,,,
-91,Greenland,GRL,Rail lines (total route-km),,,,,,,,,,,
-92,Guatemala,GTM,Rail lines (total route-km),,,,,,,,,,,
-93,Guam,GUM,Rail lines (total route-km),,,,,,,,,,,
-94,Guyana,GUY,Rail lines (total route-km),,,,,,,,,,,
-95,High income,HIC,Rail lines (total route-km),,,,,,,,,,,
-96,"Hong Kong SAR, China",HKG,Rail lines (total route-km),,,,,,,,,,,
-97,Honduras,HND,Rail lines (total route-km),,,,,,,,,,,
-98,Heavily indebted poor countries (HIPC),HPC,Rail lines (total route-km),,,,,,,,,,,
-99,Croatia,HRV,Rail lines (total route-km),2722.0,2723.0,2722.0,2604.0,2604.0,2605.0,2605.0,2605.0,2617.0,,
-100,Haiti,HTI,Rail lines (total route-km),,,,,,,,,,,
-101,Hungary,HUN,Rail lines (total route-km),7877.9,7894.8,7894.8,7894.8,7896.0,7748.7,7751.7,7587.7,7587.7,,
-102,IBRD only,IBD,Rail lines (total route-km),,,,,,,,,,,
-103,IDA & IBRD total,IBT,Rail lines (total route-km),,,,,,,,,,,
-104,IDA total,IDA,Rail lines (total route-km),,,,,,,,,,,
-105,IDA blend,IDB,Rail lines (total route-km),,,,,,,,,,,
-106,Indonesia,IDN,Rail lines (total route-km),4828.0,4861.0,5107.0,5196.0,5350.0,5384.0,5724.0,6062.0,,,
-107,IDA only,IDX,Rail lines (total route-km),,,,,,,,,,,
-108,Isle of Man,IMN,Rail lines (total route-km),,,,,,,,,,,
-109,India,IND,Rail lines (total route-km),64460.0,64600.0,65436.0,65808.0,66030.0,66687.0,67368.0,68443.0,68155.0,,
-110,Not classified,INX,Rail lines (total route-km),,,,,,,,,,,
-111,Ireland,IRL,Rail lines (total route-km),1919.0,1919.0,1894.0,1458.0,1458.0,2174.0,1888.0,,,,
-112,"Iran, Islamic Rep.",IRN,Rail lines (total route-km),8367.5,8368.0,8592.5,8559.5,8559.5,8576.0,9021.0,9146.0,,,
-113,Iraq,IRQ,Rail lines (total route-km),,,,2370.0,,,,,,,
-114,Iceland,ISL,Rail lines (total route-km),,,,,,,,,,,
-115,Israel,ISR,Rail lines (total route-km),1078.937,1142.544,1153.0,1194.0,1277.0,1340.105,1495.0,1521.0,1598.916,,
-116,Italy,ITA,Rail lines (total route-km),16726.4,16741.6,16751.6,16722.6,16723.8,16788.3,16787.2,16780.8,16778.6,,
-117,Jamaica,JAM,Rail lines (total route-km),,,,,,,,,,,
-118,Jordan,JOR,Rail lines (total route-km),,,,,,293.0,293.0,1596.0,,,
-119,Japan,JPN,Rail lines (total route-km),20087.4,19435.4,19435.5,16703.2,16704.4,15108.4,19249.4,19122.5,,,
-120,Kazakhstan,KAZ,Rail lines (total route-km),14319.4,14758.9,14767.1,14767.1,14767.1,15529.0,16040.3,16060.8,,,
-121,Kenya,KEN,Rail lines (total route-km),,,,,,,,,,,
-122,Kyrgyz Republic,KGZ,Rail lines (total route-km),417.2,417.2,417.0,424.0,424.0,424.0,424.0,424.0,,,
-123,Cambodia,KHM,Rail lines (total route-km),,,,,,,,,,,
-124,Kiribati,KIR,Rail lines (total route-km),,,,,,,,,,,
-125,St. Kitts and Nevis,KNA,Rail lines (total route-km),,,,,,,,,,,
-126,"Korea, Rep.",KOR,Rail lines (total route-km),3637.2,3650.1,3666.1,3668.3,3944.0,4071.0,4191.7,4200.0,4111.2,,
-127,Kuwait,KWT,Rail lines (total route-km),,,,,,,,,,,
-128,Latin America & Caribbean (excluding high income),LAC,Rail lines (total route-km),,,,,,,,,,,
-129,Lao PDR,LAO,Rail lines (total route-km),,,,,,,,,,,
-130,Lebanon,LBN,Rail lines (total route-km),,,,,,,,,,,
-131,Liberia,LBR,Rail lines (total route-km),,,,,,,,,,,
-132,Libya,LBY,Rail lines (total route-km),,,,,,,,,,,
-133,St. Lucia,LCA,Rail lines (total route-km),,,,,,,,,,,
-134,Latin America & Caribbean,LCN,Rail lines (total route-km),,,,,,,,,,,
-135,Least developed countries: UN classification,LDC,Rail lines (total route-km),,,,,,,,,,,
-136,Low income,LIC,Rail lines (total route-km),,,,,,,,,,,
-137,Liechtenstein,LIE,Rail lines (total route-km),,,,,,,,,,,
-138,Sri Lanka,LKA,Rail lines (total route-km),1148.3,1148.11,1254.23,,1567.0,1561.706,,,,,
-139,Lower middle income,LMC,Rail lines (total route-km),,,,,,,,,,,
-140,Low & middle income,LMY,Rail lines (total route-km),,,,,,,,,,,
-141,Lesotho,LSO,Rail lines (total route-km),,,,,,,,,,,
-142,Late-demographic dividend,LTE,Rail lines (total route-km),,,,,,,,,,,
-143,Lithuania,LTU,Rail lines (total route-km),1767.0,1767.0,1767.0,1767.0,1877.0,1911.0,1911.0,1911.0,1911.0,,
-144,Luxembourg,LUX,Rail lines (total route-km),275.0,275.0,275.0,275.0,275.0,275.0,275.0,288.0,,,
-145,Latvia,LVA,Rail lines (total route-km),1865.0,1864.0,1859.0,1859.0,1859.6,1859.6,1859.6,1859.6,1859.6,,
-146,"Macao SAR, China",MAC,Rail lines (total route-km),,,,,,,,,,,
-147,St. Martin (French part),MAF,Rail lines (total route-km),,,,,,,,,,,
-148,Morocco,MAR,Rail lines (total route-km),2109.0,2109.0,2109.0,2109.0,2109.0,2109.0,2109.0,2295.0,2295.0,,
-149,Monaco,MCO,Rail lines (total route-km),,,,,,,,,,,
-150,Moldova,MDA,Rail lines (total route-km),1156.9,1156.9,1156.9,1156.0,1151.0,1151.0,1151.0,1151.0,,,
-151,Madagascar,MDG,Rail lines (total route-km),673.0,673.0,673.0,673.0,,,,,,,
-152,Maldives,MDV,Rail lines (total route-km),,,,,,,,,,,
-153,Middle East & North Africa,MEA,Rail lines (total route-km),,,,,,,,,,,
-154,Mexico,MEX,Rail lines (total route-km),,,,11891.0,11903.0,11905.0,14280.0,14388.0,,,
-155,Marshall Islands,MHL,Rail lines (total route-km),,,,,,,,,,,
-156,Middle income,MIC,Rail lines (total route-km),,,,,,,,,,,
-157,North Macedonia,MKD,Rail lines (total route-km),699.0,699.0,699.0,699.0,683.0,683.0,683.0,683.0,683.0,,
-158,Mali,MLI,Rail lines (total route-km),,,,,,,,,,,
-159,Malta,MLT,Rail lines (total route-km),,,,,,,,,,,
-160,Myanmar,MMR,Rail lines (total route-km),,,,,,,,,,,
-161,Middle East & North Africa (excluding high income),MNA,Rail lines (total route-km),,,,,,,,,,,
-162,Montenegro,MNE,Rail lines (total route-km),239.2,239.2,249.0,249.0,249.0,249.0,249.0,249.0,,,
-163,Mongolia,MNG,Rail lines (total route-km),1815.0,1810.0,1810.0,1822.5,1810.0,1810.0,1810.0,,,,
-164,Northern Mariana Islands,MNP,Rail lines (total route-km),,,,,,,,,,,
-165,Mozambique,MOZ,Rail lines (total route-km),3116.0,,,,,,,,,,
-166,Mauritania,MRT,Rail lines (total route-km),,,,,,,728.0,728.0,728.0,,
-167,Mauritius,MUS,Rail lines (total route-km),,,,,,,,,,,
-168,Malawi,MWI,Rail lines (total route-km),,,,,,,,,,,
-169,Malaysia,MYS,Rail lines (total route-km),2250.284,,,,,,2773.0,2783.0,,,
-170,North America,NAC,Rail lines (total route-km),,,,,,,,,,,
-171,Namibia,NAM,Rail lines (total route-km),,,,,,,,,,,
-172,New Caledonia,NCL,Rail lines (total route-km),,,,,,,,,,,
-173,Niger,NER,Rail lines (total route-km),,,,,,,,,,,
-174,Nigeria,NGA,Rail lines (total route-km),3528.0,3528.0,3528.0,3528.0,3528.0,,,,,,
-175,Nicaragua,NIC,Rail lines (total route-km),,,,,,,,,,,
-176,Netherlands,NLD,Rail lines (total route-km),,,,,,,,3200.0,,,
-177,Norway,NOR,Rail lines (total route-km),4154.0,,,4219.0,4209.0,4209.0,4208.0,4200.0,,,
-178,Nepal,NPL,Rail lines (total route-km),,,,,,,,,,,
-179,Nauru,NRU,Rail lines (total route-km),,,,,,,,,,,
-180,New Zealand,NZL,Rail lines (total route-km),,,,,,,,,,,
-181,OECD members,OED,Rail lines (total route-km),,,,,,,,,,,
-182,Oman,OMN,Rail lines (total route-km),,,,,,,,,,,
-183,Other small states,OSS,Rail lines (total route-km),,,,,,,,,,,
-184,Pakistan,PAK,Rail lines (total route-km),7791.0,7791.0,7791.0,7784.0,7791.0,7791.0,7791.0,7791.0,,,
-185,Panama,PAN,Rail lines (total route-km),,,,,,,,,,,
-186,Peru,PER,Rail lines (total route-km),,,,,,,,,,,
-187,Philippines,PHL,Rail lines (total route-km),,,,,509.0,509.0,,,,,
-188,Palau,PLW,Rail lines (total route-km),,,,,,,,,,,
-189,Papua New Guinea,PNG,Rail lines (total route-km),,,,,,,,,,,
-190,Poland,POL,Rail lines (total route-km),19725.0,19617.0,18959.0,18942.0,18510.0,18429.0,18513.0,18536.0,18538.0,,
-191,Pre-demographic dividend,PRE,Rail lines (total route-km),,,,,,,,,,,
-192,Puerto Rico,PRI,Rail lines (total route-km),,,,,,,,,,,
-193,"Korea, Dem. People's Rep.",PRK,Rail lines (total route-km),,,,,,,,,,,
-194,Portugal,PRT,Rail lines (total route-km),2794.0,2541.254,2544.349,2545.96,2545.96,2545.96,2545.96,2545.96,2526.149,,
-195,Paraguay,PRY,Rail lines (total route-km),,,,,,,,,,,
-196,West Bank and Gaza,PSE,Rail lines (total route-km),,,,,,,,,,,
-197,Pacific island small states,PSS,Rail lines (total route-km),,,,,,,,,,,
-198,Post-demographic dividend,PST,Rail lines (total route-km),,,,,,,,,,,
-199,French Polynesia,PYF,Rail lines (total route-km),,,,,,,,,,,
-200,Qatar,QAT,Rail lines (total route-km),,,,,,,,,,,
-201,Romania,ROU,Rail lines (total route-km),10777.0,10777.0,10768.0,10770.0,10770.0,10766.0,10766.0,10765.0,10759.0,,
-202,Russian Federation,RUS,Rail lines (total route-km),85166.0,85248.0,85266.0,,85262.0,85375.0,85545.0,85626.0,85494.0,,
-203,Rwanda,RWA,Rail lines (total route-km),,,,,,,,,,,
-204,South Asia,SAS,Rail lines (total route-km),,,,,,,,,,,
-205,Saudi Arabia,SAU,Rail lines (total route-km),,,,,,,2620.0,2939.0,,,
-206,Sudan,SDN,Rail lines (total route-km),4313.0,4313.0,4313.0,,,,,,,,
-207,Senegal,SEN,Rail lines (total route-km),,,,,,,,,,,
-208,Singapore,SGP,Rail lines (total route-km),,,,,,,,,,,
-209,Solomon Islands,SLB,Rail lines (total route-km),,,,,,,,,,,
-210,Sierra Leone,SLE,Rail lines (total route-km),,,,,,,,,,,
-211,El Salvador,SLV,Rail lines (total route-km),,,,,,,,,,,
-212,San Marino,SMR,Rail lines (total route-km),,,,,,,,,,,
-213,Somalia,SOM,Rail lines (total route-km),,,,,,,,,,,
-214,Serbia,SRB,Rail lines (total route-km),3809.0,3809.0,3809.0,3809.0,3809.0,3736.0,3736.0,3724.468,3724.468,,
-215,Sub-Saharan Africa (excluding high income),SSA,Rail lines (total route-km),,,,,,,,,,,
-216,South Sudan,SSD,Rail lines (total route-km),,,,,,,,,,,
-217,Sub-Saharan Africa,SSF,Rail lines (total route-km),,,,,,,,,,,
-218,Small states,SST,Rail lines (total route-km),,,,,,,,,,,
-219,Sao Tome and Principe,STP,Rail lines (total route-km),,,,,,,,,,,
-220,Suriname,SUR,Rail lines (total route-km),,,,,,,,,,,
-221,Slovak Republic,SVK,Rail lines (total route-km),3624.077,3631.386,3631.306,3627.102,3626.369,3626.297,3626.441,3626.611,3629.154,,
-222,Slovenia,SVN,Rail lines (total route-km),1209.14,1209.14,1209.09,1209.05,1209.044,1209.044,1209.05,1209.0,,,
-223,Sweden,SWE,Rail lines (total route-km),10014.0,9944.0,9765.0,9689.0,9716.0,9684.0,9684.0,9708.0,9701.0,,
-224,Eswatini,SWZ,Rail lines (total route-km),300.0,,,,,,,,,,
-225,Sint Maarten (Dutch part),SXM,Rail lines (total route-km),,,,,,,,,,,
-226,Seychelles,SYC,Rail lines (total route-km),,,,,,,,,,,
-227,Syrian Arab Republic,SYR,Rail lines (total route-km),,,,,,,,,,,
-228,Turks and Caicos Islands,TCA,Rail lines (total route-km),,,,,,,,,,,
-229,Chad,TCD,Rail lines (total route-km),,,,,,,,,,,
-230,East Asia & Pacific (IDA & IBRD countries),TEA,Rail lines (total route-km),,,,,,,,,,,
-231,Europe & Central Asia (IDA & IBRD countries),TEC,Rail lines (total route-km),,,,,,,,,,,
-232,Togo,TGO,Rail lines (total route-km),,,,,,,,,,,
-233,Thailand,THA,Rail lines (total route-km),4458.0,,,,3742.0,3742.0,4092.0,,,,
-234,Tajikistan,TJK,Rail lines (total route-km),620.7,608.0,587.0,597.0,597.0,620.0,620.0,620.0,,,
-235,Turkmenistan,TKM,Rail lines (total route-km),3115.0,3115.0,3115.0,3115.0,6230.0,6230.0,7680.0,7680.0,,,
-236,Latin America & the Caribbean (IDA & IBRD countries),TLA,Rail lines (total route-km),,,,,,,,,,,
-237,Timor-Leste,TLS,Rail lines (total route-km),,,,,,,,,,,
-238,Middle East & North Africa (IDA & IBRD countries),TMN,Rail lines (total route-km),,,,,,,,,,,
-239,Tonga,TON,Rail lines (total route-km),,,,,,,,,,,
-240,South Asia (IDA & IBRD),TSA,Rail lines (total route-km),,,,,,,,,,,
-241,Sub-Saharan Africa (IDA & IBRD countries),TSS,Rail lines (total route-km),,,,,,,,,,,
-242,Trinidad and Tobago,TTO,Rail lines (total route-km),,,,,,,,,,,
-243,Tunisia,TUN,Rail lines (total route-km),,1867.0,,2244.0,2244.0,2244.0,2165.0,1777.0,1777.0,,
-244,Turkiye,TUR,Rail lines (total route-km),9642.0,9642.0,9718.0,10087.0,10131.0,10131.0,10207.0,10315.0,10378.0,,
-245,Tuvalu,TUV,Rail lines (total route-km),,,,,,,,,,,
-246,Tanzania,TZA,Rail lines (total route-km),2707.0,,,,,,2701.0,,,,
-247,Uganda,UGA,Rail lines (total route-km),,,,,,,,,,,
-248,Ukraine,UKR,Rail lines (total route-km),21665.4,21642.5,21625.9,21625.9,20975.23,21603.0,21626.0,21626.0,,,
-249,Upper middle income,UMC,Rail lines (total route-km),,,,,,,,,,,
-250,Uruguay,URY,Rail lines (total route-km),,,,1498.0,1498.0,1498.0,1498.0,,,,
-251,United States,USA,Rail lines (total route-km),194136.0,153516.6,154321.5,152932.6,151735.0,151270.0,150966.0,150462.2976,,,
-252,Uzbekistan,UZB,Rail lines (total route-km),4258.4,4192.0,4186.0,4202.0,4238.0,4304.0,4642.0,4642.0,,,
-253,St. Vincent and the Grenadines,VCT,Rail lines (total route-km),,,,,,,,,,,
-254,"Venezuela, RB",VEN,Rail lines (total route-km),,,,,,,,,,,
-255,British Virgin Islands,VGB,Rail lines (total route-km),,,,,,,,,,,
-256,Virgin Islands (U.S.),VIR,Rail lines (total route-km),,,,,,,,,,,
-257,Vietnam,VNM,Rail lines (total route-km),2347.0,2347.0,2347.0,3186.0,3186.0,2581.0,2367.0,2382.0,2481.0,,
-258,Vanuatu,VUT,Rail lines (total route-km),,,,,,,,,,,
-259,World,WLD,Rail lines (total route-km),,,,,,,,,,,
-260,Samoa,WSM,Rail lines (total route-km),,,,,,,,,,,
-261,Kosovo,XKX,Rail lines (total route-km),,,,,,,,,,,
-262,"Yemen, Rep.",YEM,Rail lines (total route-km),,,,,,,,,,,
-263,South Africa,ZAF,Rail lines (total route-km),,,,,20953.0,20953.0,20953.0,,,,
-264,Zambia,ZMB,Rail lines (total route-km),,,,,,,1248.0,1248.0,,,
-265,Zimbabwe,ZWE,Rail lines (total route-km),,,,,,,,,,,
+,Country Name,Country Code,Indicator Name,2018
+9,Argentina,ARG,Rail lines (total route-km),17866.0
+14,Austria,AUT,Rail lines (total route-km),4864.0
+15,Azerbaijan,AZE,Rail lines (total route-km),2133.07
+17,Belgium,BEL,Rail lines (total route-km),3607.0
+19,Burkina Faso,BFA,Rail lines (total route-km),518.0
+21,Bulgaria,BGR,Rail lines (total route-km),4030.0
+24,Bosnia and Herzegovina,BIH,Rail lines (total route-km),1018.054
+25,Belarus,BLR,Rail lines (total route-km),5459.0
+35,Canada,CAN,Rail lines (total route-km),47687.4
+37,Switzerland,CHE,Rail lines (total route-km),4046.846
+40,China,CHN,Rail lines (total route-km),67515.0
+41,Cote d'Ivoire,CIV,Rail lines (total route-km),639.0
+42,Cameroon,CMR,Rail lines (total route-km),1004.0
+43,"Congo, Dem. Rep.",COD,Rail lines (total route-km),3641.0
+54,Czech Republic,CZE,Rail lines (total route-km),9406.0
+55,Germany,DEU,Rail lines (total route-km),33440.0
+60,Algeria,DZA,Rail lines (total route-km),4016.25
+70,Spain,ESP,Rail lines (total route-km),15618.0
+72,Ethiopia,ETH,Rail lines (total route-km),754.0
+75,Finland,FIN,Rail lines (total route-km),5926.0
+77,France,FRA,Rail lines (total route-km),28241.0
+80,Gabon,GAB,Rail lines (total route-km),810.0
+81,United Kingdom,GBR,Rail lines (total route-km),16295.0
+82,Georgia,GEO,Rail lines (total route-km),1285.0
+89,Greece,GRC,Rail lines (total route-km),2293.0
+99,Croatia,HRV,Rail lines (total route-km),2605.0
+101,Hungary,HUN,Rail lines (total route-km),7587.7
+106,Indonesia,IDN,Rail lines (total route-km),6062.0
+109,India,IND,Rail lines (total route-km),68443.0
+112,"Iran, Islamic Rep.",IRN,Rail lines (total route-km),9146.0
+115,Israel,ISR,Rail lines (total route-km),1521.0
+116,Italy,ITA,Rail lines (total route-km),16780.8
+118,Jordan,JOR,Rail lines (total route-km),1596.0
+119,Japan,JPN,Rail lines (total route-km),19122.5
+120,Kazakhstan,KAZ,Rail lines (total route-km),16060.8
+122,Kyrgyz Republic,KGZ,Rail lines (total route-km),424.0
+126,"Korea, Rep.",KOR,Rail lines (total route-km),4200.0
+143,Lithuania,LTU,Rail lines (total route-km),1911.0
+144,Luxembourg,LUX,Rail lines (total route-km),288.0
+145,Latvia,LVA,Rail lines (total route-km),1859.6
+148,Morocco,MAR,Rail lines (total route-km),2295.0
+150,Moldova,MDA,Rail lines (total route-km),1151.0
+154,Mexico,MEX,Rail lines (total route-km),14388.0
+157,North Macedonia,MKD,Rail lines (total route-km),683.0
+162,Montenegro,MNE,Rail lines (total route-km),249.0
+166,Mauritania,MRT,Rail lines (total route-km),728.0
+169,Malaysia,MYS,Rail lines (total route-km),2783.0
+176,Netherlands,NLD,Rail lines (total route-km),3200.0
+177,Norway,NOR,Rail lines (total route-km),4200.0
+184,Pakistan,PAK,Rail lines (total route-km),7791.0
+190,Poland,POL,Rail lines (total route-km),18536.0
+194,Portugal,PRT,Rail lines (total route-km),2545.96
+201,Romania,ROU,Rail lines (total route-km),10765.0
+202,Russian Federation,RUS,Rail lines (total route-km),85626.0
+205,Saudi Arabia,SAU,Rail lines (total route-km),2939.0
+214,Serbia,SRB,Rail lines (total route-km),3724.468
+221,Slovak Republic,SVK,Rail lines (total route-km),3626.611
+222,Slovenia,SVN,Rail lines (total route-km),1209.0
+223,Sweden,SWE,Rail lines (total route-km),9708.0
+234,Tajikistan,TJK,Rail lines (total route-km),620.0
+235,Turkmenistan,TKM,Rail lines (total route-km),7680.0
+243,Tunisia,TUN,Rail lines (total route-km),1777.0
+244,Turkiye,TUR,Rail lines (total route-km),10315.0
+248,Ukraine,UKR,Rail lines (total route-km),21626.0
+251,United States,USA,Rail lines (total route-km),150462.2976
+252,Uzbekistan,UZB,Rail lines (total route-km),4642.0
+257,Vietnam,VNM,Rail lines (total route-km),2382.0
+264,Zambia,ZMB,Rail lines (total route-km),1248.0
