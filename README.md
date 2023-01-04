@@ -32,6 +32,16 @@ I had to narrow my scope and lower the ambitiousness of my project pretty early 
 <a name="data"></a>
 ## 5. Data
 
+[NASA EPI indexes](https://sedac.ciesin.columbia.edu/data/collection/epi/sets/browse)
+
+[IEP Safety index](https://www.visionofhumanity.org/public-release-data/)
+
+[Tourism Statistics](https://www.kaggle.com/search?q=international+tourism)
+
+[Carbon Emissions](https://www.kaggle.com/datasets/ankanhore545/carbon-dioxide-emissions-of-the-world)
+
+[Railway infrastructure & Density](http://en.worldstat.info/World/List_of_countries_by_Density_of_railways)
+
 <a name="tech"></a>
 ## 6. Technologies Used
 
